@@ -41,12 +41,12 @@ I membri in carica del Comitato Scientifico sono i seguenti:
 	* Prof. Alessandro Ricci, *Professore Associato DISI-UOS Cesena, Referente UNIBO per il Progetto Sanità Digitale Romagna*
 	
 * Azienda USL della Romagna
-	* Dott. Gianluca Biondi, *Dirigente Analista, UO Governo dei Sistemi Informativi*
-	* Ing. Angelo Croatti, *Dirigente Esperto dei Sistemi per l'Innovazione e la Transizione Digitale, Staff Direzione Generale*
-	* Dott. Stefano Sanniti, *Direttore Area Dipartimentale Risorse Tecnologiche, Direttore UO Fisica Medica e Ingegneria Clinica*
+	* Ing. Gianluca Biondi, *U.O. Governo dei Sistemi Informativi*
+	* Ing. Angelo Croatti, *Responsabile per la Transizione Digitale, Staff Direzione Generale*
+	* Dott. Stefano Sanniti, *Direttore Area Dipartimentale Risorse Tecnologiche, Direttore U.O. Fisica Medica e Ingegneria Clinica*
 	
 * IRST
-	* Dott. Nicola Gentili, *Membro Data Unit*
+	* Dott. Nicola Gentili, *Coordinatore Data Unit*
 	* Ing. Roberto Vespignani, *Direttore Servizio Informatico*
 
 ## Adesioni al Laboratorio
