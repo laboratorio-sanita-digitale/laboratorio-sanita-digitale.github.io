@@ -16,11 +16,11 @@ Una raccolta delle tesi sviluppate nel contesto della collaborazione del Laborat
 
 {% assign theses = site.data.thesis %}
 
-{% for year in theses | group_by: "year" %}
-## {{ year.name }}
+{% for year in theses | group_by:"year" %}
+## {{year.name}}
 
-{% for thesis in year.items %}
-- *{{ thesis.title }}*, **{{ thesis.author }}** - {{ thesis.degree }}, {{ thesis.course }}
-{% endfor %}
+    {% for thesis in year.items %}
+    - *{{thesis.title}}*, **{{thesis.author}}** - {{thesis.degree}}, {{thesis.course}}
+    {% endfor %}
 
 {% endfor %}
