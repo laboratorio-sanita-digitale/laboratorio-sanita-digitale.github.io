@@ -5,9 +5,9 @@ title_separator          : "|"
 logo                     : "/images/labsd-logo.png"
 name                     : &name ""
 description              : &description ""
-url                      : https://auslromagna.github.io
-baseurl                  : "/laboratoriosanitadigitale"
-repository               : "auslromagna/laboratoriosanitadigitale"
+url                      : https://laboratorio-sanita-digitale.github.io
+baseurl                  : "/"
+repository               : "laboratorio-sanita-digitale/laboratorio-sanita-digitale.github.io"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
