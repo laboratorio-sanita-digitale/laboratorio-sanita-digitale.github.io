@@ -6,9 +6,11 @@ main:
     url: /projects/
   - title: "Pubblicazioni"
     url: /publications/
+  - title: "Tesi"
+    url: /thesis/ 
   - title: "Blog"
     url: /year-archive/
-    
+
 # pages links
 blog:
   - title: Blog
