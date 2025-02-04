@@ -1,210 +1,209 @@
-theses:
-  - year: 2024
-    author: Giangiulli, Chiara
-    title: "Studio e Sviluppo di un Sistema Prototipale per la Gestione della Turnazione del Personale del Pronto Soccorso di AUSL Romagna"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2024
+  author: Giangiulli Chiara
+  title: "Studio e Sviluppo di un Sistema Prototipale per la Gestione della Turnazione del Personale del Pronto Soccorso di AUSL Romagna"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2023
-    author: Zanatto, Paolo
-    title: "The Role of Digital Twins for improving Sustainability in Healthcare: The IRST Case"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Digital transformation management [LM-DM270] - Cesena
+- year: 2023
+  author: Zanatto Paolo
+  title: "The Role of Digital Twins for improving Sustainability in Healthcare: The IRST Case"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Digital transformation management [LM-DM270] - Cesena
 
-  - year: 2023
-    author: Perroni, Nicolas
-    title: "Applicazioni della Mixed Reality in Ambito Sanitario: Stato dell’Arte e Prospettive Future"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2023
+  author: Perroni Nicolas
+  title: "Applicazioni della Mixed Reality in Ambito Sanitario: Stato dell’Arte e Prospettive Future"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2023
-    author: Venegas Pastene, Diego Alonso
-    title: "RTLS-based digital twins in healthcare: the trauma management case study"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Digital transformation management [LM-DM270] - Cesena
+- year: 2023
+  author: Venegas Pastene Diego Alonso
+  title: "RTLS-based digital twins in healthcare: the trauma management case study"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Digital transformation management [LM-DM270] - Cesena
 
-  - year: 2022
-    author: Leonardi, Laura
-    title: "Applicazione del Paradigma Digital Twin nell’ambito della gestione di sale operatorie per AUSL Romagna: standardizzazione dati tramite FHIR"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2022
+  author: Leonardi Laura
+  title: "Applicazione del Paradigma Digital Twin nell’ambito della gestione di sale operatorie per AUSL Romagna: standardizzazione dati tramite FHIR"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2022
-    author: Pandolfini, Serafino
-    title: "Applicazione del paradigma Digital Twin nell’ambito della gestione di sale operatorie per AUSL Romagna: architettura e implementazione del backend"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2022
+  author: Pandolfini Serafino
+  title: "Applicazione del paradigma Digital Twin nell’ambito della gestione di sale operatorie per AUSL Romagna: architettura e implementazione del backend"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2022
-    author: Tosi, Sofia
-    title: "Applicazione del paradigma Digital Twin nell'ambito della gestione di sale operatorie per AUSL Romagna: Dashboard per la visualizzazione dei dati"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2022
+  author: Tosi Sofia
+  title: "Applicazione del paradigma Digital Twin nell'ambito della gestione di sale operatorie per AUSL Romagna: Dashboard per la visualizzazione dei dati"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2022
-    author: Gibertoni, Giada
-    title: "Applicazione del paradigma Digital Twin in ambito Sanità Digitale: il Sistema di Gestione dei Trasporti Secondari AUSL Romagna NUE 116-117 come Caso di Studio"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2022
+  author: Gibertoni Giada
+  title: "Applicazione del paradigma Digital Twin in ambito Sanità Digitale: il Sistema di Gestione dei Trasporti Secondari AUSL Romagna NUE 116-117 come Caso di Studio"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2022
-    author: Nardicchia, Giulia
-    title: "Studio e sviluppo prototipale di un'applicazione di realtà mista in ambito healthcare con dispositivo hololens 2"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2022
+  author: Nardicchia Giulia
+  title: "Studio e sviluppo prototipale di un'applicazione di realtà mista in ambito healthcare con dispositivo hololens 2"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Maioli, Edoardo
-    title: "Internet of Medical Things e Sviluppo di Sistemi Interoperabili basati su Standard FHIR: Un caso di studio basato sull'integrazione di un Dispositivo EGA"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Maioli Edoardo
+  title: "Internet of Medical Things e Sviluppo di Sistemi Interoperabili basati su Standard FHIR: Un caso di studio basato sull'integrazione di un Dispositivo EGA"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Urbini, Elia
-    title: "Sviluppo di sistemi interoperabili nell’ambito di internet of medical things basati su standard fhir: un caso di studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Urbini Elia
+  title: "Sviluppo di sistemi interoperabili nell’ambito di internet of medical things basati su standard fhir: un caso di studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Benvenuti, Filippo
-    title: "Studio e sviluppo prototipale di un workbench virtuale in realtà mista a supporto del chirurgo in sala operatoria"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Benvenuti Filippo
+  title: "Studio e sviluppo prototipale di un workbench virtuale in realtà mista a supporto del chirurgo in sala operatoria"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Yan, Elena
-    title: "Telemedicina e Wearable Computing a supporto del personale sanitario per la diagnosi dell'ictus: il progetto TeleStroke come caso di studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Yan Elena
+  title: "Telemedicina e Wearable Computing a supporto del personale sanitario per la diagnosi dell'ictus: il progetto TeleStroke come caso di studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Micelli, Leonardo
-    title: "Progettazione e sviluppo di un sistema di telemedicina interoperabile"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Micelli Leonardo
+  title: "Progettazione e sviluppo di un sistema di telemedicina interoperabile"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Tarantino, Chiara
-    title: "Estensione e potenziamento di un sistema per il tracciamento in ambito sanitario: il progetto tracking for care come caso di studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Tarantino Chiara
+  title: "Estensione e potenziamento di un sistema per il tracciamento in ambito sanitario: il progetto tracking for care come caso di studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Mazzanti, Ivan
-    title: "Progettazione e sviluppo di un sistema a supporto del personale medico per la gestione dei referti dell’emogasanalisi"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Mazzanti Ivan
+  title: "Progettazione e sviluppo di un sistema a supporto del personale medico per la gestione dei referti dell’emogasanalisi"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2021
-    author: Pabich, Marcin Tomasz
-    title: "Progettazione e Sviluppo di un Sistema a Microservizi interoperabile e modulare per Televisite in Ambito Sanitario"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2021
+  author: Pabich Marcin Tomasz
+  title: "Progettazione e Sviluppo di un Sistema a Microservizi interoperabile e modulare per Televisite in Ambito Sanitario"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2021
-    author: Teodorani, Cecilia
-    title: "Progettazione e Sviluppo di Applicazioni Mobile Cross-platform - Un Sistema per Televisite come Caso di Studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2021
+  author: Teodorani Cecilia
+  title: "Progettazione e Sviluppo di Applicazioni Mobile Cross-platform - Un Sistema per Televisite come Caso di Studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2020
-    author: Bottazzi, Manuel
-    title: "Il Progetto Smart Shock Room: Studio e sviluppo di un ambiente ospedaliero intelligente basato sull'integrazione di approcci ad agenti, assistenti vocali e Digital Twin"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2020
+  author: Bottazzi Manuel
+  title: "Il Progetto Smart Shock Room: Studio e sviluppo di un ambiente ospedaliero intelligente basato sull'integrazione di approcci ad agenti, assistenti vocali e Digital Twin"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2020
-    author: Marfoglia, Alberto
-    title: "Progettazione e sviluppo di un sistema software per il tracciamento del trauma in fase preospedaliera"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2020
+  author: Marfoglia Alberto
+  title: "Progettazione e sviluppo di un sistema software per il tracciamento del trauma in fase preospedaliera"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2020
-    author: Gabellini, Matteo
-    title: "Il Paradigma Digital Twin: studio e proposta di un metamodello con esempio applicativo al contesto Healthcare"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2020
+  author: Gabellini Matteo
+  title: "Il Paradigma Digital Twin: studio e proposta di un metamodello con esempio applicativo al contesto Healthcare"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2020
-    author: Giacomini, Davide
-    title: "Studio e sviluppo di un sistema di telerefertazione"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2020
+  author: Giacomini Davide
+  title: "Studio e sviluppo di un sistema di telerefertazione"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2020
-    author: Osimani, Lorenzo
-    title: "Estensione e potenziamento di un sistema per il tracciamento e analisi dati in ambito ostetrico"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2020
+  author: Osimani Lorenzo
+  title: "Estensione e potenziamento di un sistema per il tracciamento e analisi dati in ambito ostetrico"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2020
-    author: Sambuchi, Luca
-    title: "Da HL7 a Servizi Web REST per la fruizione dei dati di Apparati Medici Attivi - Un Caso di Studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2020
+  author: Sambuchi Luca
+  title: "Da HL7 a Servizi Web REST per la fruizione dei dati di Apparati Medici Attivi - Un Caso di Studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2019
-    author: Giulianini, Daniele
-    title: "Studio e sviluppo prototipale di un sistema per la visualizzazione e la manipolazione di contenuti DICOM in realtà aumentata"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2019
+  author: Giulianini Daniele
+  title: "Studio e sviluppo prototipale di un sistema per la visualizzazione e la manipolazione di contenuti DICOM in realtà aumentata"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Bombardi, Tommaso
-    title: "Progettazione e Sviluppo di un Sistema Mobile per il Tracciamento Preospedaliero"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Bombardi Tommaso
+  title: "Progettazione e Sviluppo di un Sistema Mobile per il Tracciamento Preospedaliero"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Bonarrigo, Manuel
-    title: "Panoramica dell'approccio architetturale orientato ai microservizi e analisi dell'applicabilità nel contesto TraumaTracker"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Bonarrigo Manuel
+  title: "Panoramica dell'approccio architetturale orientato ai microservizi e analisi dell'applicabilità nel contesto TraumaTracker"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Guerrini, Gabriele
-    title: "Progettazione e Sviluppo di un Servizio di Localizzazione in Ambito Ospedaliero basato su Infrastruttura Beacon"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Guerrini Gabriele
+  title: "Progettazione e Sviluppo di un Servizio di Localizzazione in Ambito Ospedaliero basato su Infrastruttura Beacon"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Cantarelli, Dario
-    title: "Progettazione e sviluppo prototipale di un sistema web per il monitoraggio real-time di traumi in corso"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Cantarelli Dario
+  title: "Progettazione e sviluppo prototipale di un sistema web per il monitoraggio real-time di traumi in corso"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Cavalluzzo, Matteo
-    title: "Tracking indoor basato su beacon: Trauma Tracker come caso di studio"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Cavalluzzo Matteo
+  title: "Tracking indoor basato su beacon: Trauma Tracker come caso di studio"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Martelli, Giovanni Maria
-    title: "Eyewear Computing: studio e sviluppo prototipale di un sistema in ambito healthcare"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2018
+  author: Martelli Giovanni Maria
+  title: "Eyewear Computing: studio e sviluppo prototipale di un sistema in ambito healthcare"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2018
-    author: Vandi, Silvia
-    title: "Progettazione e Sviluppo di un BDI Personal Assistant Agent per la generazione di Warning in ambito medico: il sistema Trauma Tracker come caso di studio"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2018
+  author: Vandi Silvia
+  title: "Progettazione e Sviluppo di un BDI Personal Assistant Agent per la generazione di Warning in ambito medico: il sistema Trauma Tracker come caso di studio"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2017
-    author: Spadazzi, Gianluca
-    title: "Sviluppo di un sistema di e-health per il tracciamento dei parametri vitali nella gestione dei traumi"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2017
+  author: Spadazzi Gianluca
+  title: "Sviluppo di un sistema di e-health per il tracciamento dei parametri vitali nella gestione dei traumi"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
 
-  - year: 2016
-    author: Gabellini, Matteo
-    title: "Il progetto TraumaTracker: studio e sviluppo prototipale di un sistema wearable hands-free in ambito healthcare"
-    degree: Laurea
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
+- year: 2016
+  author: Gabellini Matteo
+  title: "Il progetto TraumaTracker: studio e sviluppo prototipale di un sistema wearable hands-free in ambito healthcare"
+  degree: Laurea
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [L-DM270] - Cesena
 
-  - year: 2016
-    author: Pontellini, Lorenzo
-    title: "Studio e Progettazione di Sistemi Hands-free basati su Tecnologie Wearable: Un Caso di Studio in Ambito Healthcare"
-    degree: Laurea magistrale
-    course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
+- year: 2016
+  author: Pontellini Lorenzo
+  title: "Studio e Progettazione di Sistemi Hands-free basati su Tecnologie Wearable: Un Caso di Studio in Ambito Healthcare"
+  degree: Laurea magistrale
+  course: Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena
