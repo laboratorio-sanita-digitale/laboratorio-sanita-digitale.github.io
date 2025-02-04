@@ -1,0 +1,213 @@
+- type: inproceedings
+  author: "Samuele Burattini, Sara Montagna, Nicola Gentili, Francesca Galardi, Roberto Vespignani, Paolo Zanatto, Angelo Croatti, Alessandro Ricci"
+  title: "A Digital Twins Approach for Oncologic Pharmaceutical Supply Chain"
+  booktitle: "IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events, PerCom 2024 - Workshops, Biarritz, France, March 11-15, 2024"
+  pages: "94--99"
+  publisher: "IEEE"
+  year: 2024
+  url: "https://doi.org/10.1109/PerComWorkshops59983.2024.10502569"
+  doi: "10.1109/PERCOMWORKSHOPS59983.2024.10502569"
+  timestamp: "Sun, 04 Aug 2024 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/conf/percom/BurattiniMGGVZCR24.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  author: "Samuele Burattini, Antoine Zimmermann, Marco Picone, Alessandro Ricci"
+  editor: "Manuel Wimmer, Alexander Egyed, Benoît Combemale, Marsha Chechik"
+  title: "Towards Linked Data for Ecosystems of Digital Twins"
+  booktitle: "Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems, MODELS Companion 2024, Linz, Austria, September 22-27, 2024"
+  pages: "332--337"
+  publisher: "ACM"
+  year: 2024
+  url: "https://doi.org/10.1145/3652620.3688245"
+  doi: "10.1145/3652620.3688245"
+  timestamp: "Wed, 06 Nov 2024 00:00:00 +0100"
+  biburl: "https://dblp.org/rec/conf/models/BurattiniZPR24.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  author: "Andrea Giulianelli, Samuele Burattini, Andrei Ciortea, Alessandro Ricci"
+  editor: "Manuel Wimmer, Alexander Egyed, Benoît Combemale, Marsha Chechik"
+  title: "Engineering Interoperable Ecosystems of Digital Twins: A Web-based Approach"
+  booktitle: "Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems, MODELS Companion 2024, Linz, Austria, September 22-27, 2024"
+  pages: "476--485"
+  publisher: "ACM"
+  year: 2024
+  url: "https://doi.org/10.1145/3652620.3688263"
+  doi: "10.1145/3652620.3688263"
+  timestamp: "Sun, 19 Jan 2025 00:00:00 +0100"
+  biburl: "https://dblp.org/rec/conf/models/GiulianelliBCR24.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  author: "Samuele Burattini, Sara Montagna, Angelo Croatti, Nicola Gentili, Alessandro Ricci, Laura Leonardi, Serafino Pandolfini, Sofia Tosi"
+  editor: "João Rafael Almeida, Myra Spiliopoulou, José Alberto Benítez-Andrades, Giuseppe Placidi, Alejandro Rodríguez González, Rosa Sicilia, Bridget Kane"
+  title: "An Ecosystem of Digital Twins for Operating Room Management"
+  booktitle: "36th IEEE International Symposium on Computer-Based Medical Systems, CBMS 2023, L'Aquila, Italy, June 22-24, 2023"
+  pages: "770--775"
+  publisher: "IEEE"
+  year: 2023
+  url: "https://doi.org/10.1109/CBMS58004.2023.00317"
+  doi: "10.1109/CBMS58004.2023.00317"
+  timestamp: "Sun, 04 Aug 2024 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/conf/cbms/BurattiniMCGRLPT23.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Alessandro Ricci, Angelo Croatti, Sara Montagna"
+  title: "Pervasive and Connected Digital Twins - A Vision for Digital Health"
+  journal: "IEEE Internet Comput."
+  volume: 26
+  number: 5
+  pages: "26--32"
+  year: 2022
+  url: "https://doi.org/10.1109/MIC.2021.3052039"
+  doi: "10.1109/MIC.2021.3052039"
+  timestamp: "Sun, 02 Oct 2022 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/internet/RicciCM22.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Alessandro Ricci, Angelo Croatti, Stefano Mariani, Sara Montagna, Marco Picone"
+  title: "Web of Digital Twins"
+  journal: "ACM Trans. Internet Techn."
+  volume: 22
+  number: 4
+  pages: "101:1--101:30"
+  year: 2022
+  url: "https://doi.org/10.1145/3507909"
+  doi: "10.1145/3507909"
+  timestamp: "Sun, 19 Jan 2025 00:00:00 +0100"
+  biburl: "https://dblp.org/rec/journals/toit/RicciCMMP22.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Angelo Croatti, Sara Montagna, Carolina Lombardi, Gianfranco Parati, Martino F. Pengo, Alessandro Silvani"
+  title: "An Internet of Medical Things System to Increase Continuous Positive Airway Pressure Usage in Patients with Sleep-Disordered Breathing"
+  journal: "SN Comput. Sci."
+  volume: 2
+  number: 2
+  pages: "117"
+  year: 2021
+  url: "https://doi.org/10.1007/s42979-021-00522-x"
+  doi: "10.1007/S42979-021-00522-X"
+  timestamp: "Sun, 06 Oct 2024 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/sncs/CroattiMLPPS21.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  author: "Angelo Croatti, Marco Longoni, Sara Montagna"
+  editor: "Nuno Varandas, Ansar-Ul-Haque Yasar, Haroon Malik, Stéphane Galland"
+  title: "Applying Telemedicine for Stroke Remote Diagnosis: the TeleStroke System"
+  booktitle: "The 12th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2021) / The 11th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2021), Leuven, Belgium, November 1-4, 2021"
+  series: "Procedia Computer Science"
+  volume: 198
+  pages: "164--170"
+  publisher: "Elsevier"
+  year: 2021
+  url: "https://doi.org/10.1016/j.procs.2021.12.224"
+  doi: "10.1016/J.PROCS.2021.12.224"
+  timestamp: "Sun, 04 Aug 2024 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/conf/euspn/CroattiLM21.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Sara Montagna, Angelo Croatti, Alessandro Ricci, Vanni Agnoletti, Vittorio Albarello, Emiliano Gamberini"
+  title: "Real-time tracking and documentation in trauma management"
+  journal: "Health Informatics J."
+  volume: 26
+  number: 1
+  year: 2020
+  url: "https://doi.org/10.1177/1460458219825507"
+  doi: "10.1177/1460458219825507"
+  timestamp: "Sat, 09 Apr 2022 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/hij/MontagnaCRAAG20.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Angelo Croatti, Matteo Gabellini, Sara Montagna, Alessandro Ricci"
+  title: "On the Integration of Agents and Digital Twins in Healthcare"
+  journal: "J. Medical Syst."
+  volume: 44
+  number: 9
+  pages: "161"
+  year: 2020
+  url: "https://doi.org/10.1007/s10916-020-01623-5"
+  doi: "10.1007/S10916-020-01623-5"
+  timestamp: "Sun, 04 Aug 2024 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/jms/CroattiGMR20.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  author: "Angelo Croatti, Manuel Bottazzi, Alessandro Ricci"
+  editor: "Yves Demazeau, Tom Holvoet, Juan M. Corchado, Stefania Costantini"
+  title: "Agent-Based Mixed Reality Environments in Healthcare: The Smart Shock Room Project"
+  booktitle: "Advances in Practical Applications of Agents, Multi-Agent Systems, and Trustworthiness. The PAAMS Collection - 18th International Conference, PAAMS 2020, L'Aquila, Italy, October 7-9, 2020, Proceedings"
+  series: "Lecture Notes in Computer Science"
+  volume: 12092
+  pages: "398--402"
+  publisher: "Springer"
+  year: 2020
+  url: "https://doi.org/10.1007/978-3-030-49778-1_34"
+  doi: "10.1007/978-3-030-49778-1_34"
+  timestamp: "Sat, 09 Apr 2022 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/conf/paams/CroattiBR20.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  author: "Angelo Croatti, Sara Montagna, Alessandro Ricci, Emiliano Gamberini, Vittorio Albarello, Vanni Agnoletti"
+  title: "BDI personal medical assistant agents: The case of trauma tracking and alerting"
+  journal: "Artif. Intell. Medicine"
+  volume: 96
+  pages: "187--197"
+  year: 2019
+  url: "https://doi.org/10.1016/j.artmed.2018.12.002"
+  doi: "10.1016/J.ARTMED.2018.12.002"
+  timestamp: "Sat, 30 Sep 2023 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/artmed/CroattiMRGAA19.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: article
+  id: DBLP:journals/artmed/CroattiMRGAA19
+  author: "Angelo Croatti, Sara Montagna, Alessandro Ricci, Emiliano Gamberini, Vittorio Albarello, Vanni Agnoletti"
+  title: "BDI personal medical assistant agents: The case of trauma tracking and alerting"
+  journal: "Artif. Intell. Medicine"
+  volume: 96
+  pages: "187--197"
+  year: 2019
+  url: "https://doi.org/10.1016/j.artmed.2018.12.002"
+  doi: "10.1016/J.ARTMED.2018.12.002"
+  timestamp: "Sat, 30 Sep 2023 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/journals/artmed/CroattiMRGAA19.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  id: DBLP:conf/cbms/MontagnaCRAA19
+  author: "Sara Montagna, Angelo Croatti, Alessandro Ricci, Vanni Agnoletti, Vittorio Albarello"
+  title: "Pervasive Tracking for Time-Dependent Acute Patient Flow: A Case Study in Trauma Management"
+  booktitle: "32nd IEEE International Symposium on Computer-Based Medical Systems, CBMS 2019, Cordoba, Spain, June 5-7, 2019"
+  pages: "237--240"
+  publisher: "IEEE"
+  year: 2019
+  url: "https://doi.org/10.1109/CBMS.2019.00057"
+  doi: "10.1109/CBMS.2019.00057"
+  timestamp: "Sat, 30 Sep 2023 01:00:00 +0200"
+  biburl: "https://dblp.org/rec/conf/cbms/MontagnaCRAA19.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
+
+- type: inproceedings
+  id: DBLP:conf/atal/CroattiMR17
+  author: "Angelo Croatti, Sara Montagna, Alessandro Ricci"
+  editor: "Gita Sukthankar, Juan A. Rodríguez-Aguilar"
+  title: "A Personal Medical Digital Assistant Agent for Supporting Human Operators in Emergency Scenarios"
+  booktitle: "Autonomous Agents and Multiagent Systems - AAMAS 2017 Workshops, Visionary Papers, São Paulo, Brazil, May 8-12, 2017, Revised Selected Papers"
+  series: "Lecture Notes in Computer Science"
+  volume: 10643
+  pages: "228--244"
+  publisher: "Springer"
+  year: 2017
+  url: "https://doi.org/10.1007/978-3-319-71679-4_15"
+  doi: "10.1007/978-3-319-71679-4_15"
+  timestamp: "Mon, 05 Feb 2024 20:34:11 +0100"
+  biburl: "https://dblp.org/rec/conf/atal/CroattiMR17.bib"
+  bibsource: "dblp computer science bibliography, https://dblp.org"
