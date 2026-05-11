@@ -1,0 +1,57 @@
+- institution: Azienda USL della Romagna
+  name: Angelo
+  surname: Croatti
+  title: Ing.
+  role: Responsabile per la Transizione Digitale, Staff Direzione Generale
+
+  annotations: --
+
+- institution: Azienda USL della Romagna
+  name: Gianluca
+  surname: Biondi
+  title: Ing.
+  role: U.O. Governo dei Sistemi Informativi
+  annotations: --
+
+- institution: Azienda USL della Romagna
+  name: Stefano
+  surname: Sanniti
+  title: Dott.
+  role: Direttore Area Dipartimentale Risorse Tecnologiche, Direttore U.O. Fisica Medica e Ingegneria Clinica
+  annotations: --
+
+- institution: IRCCS IRST "D. Amadori"
+  name: Nicola
+  surname: Gentili
+  title: Dott.
+  role: Coordinatore Data Unit
+  annotations: --
+
+- institution: IRCCS IRST "D. Amadori"
+  name: Roberto
+  surname: Vespignani
+  title: Dott.
+  role: Direttore Servizio Informatico
+  annotations: --
+
+- institution: Università di Bologna, Dipartimento di Informatica - Scienza e Ingegneria (DISI)
+  name: Alessandro
+  surname: Ricci
+  title: Prof.
+  role: Professore Associato DISI-UOS Cesena, Referente UNIBO per il Progetto Sanità Digitale Romagna
+  annotations: --
+
+- institution: Università di Bologna, Dipartimento di Informatica - Scienza e Ingegneria (DISI)
+  name: Franco
+  surname: Callegati
+  title: Prof.
+  role: Professore Ordinario DISI-UOS Cesena, Vicedirettore CIRI ICT UNIBO, Presidente CesenaLab
+  annotations: --
+
+- institution: Università di Bologna, Dipartimento di Informatica - Scienza e Ingegneria (DISI)
+  name: Federico
+  surname: Chesani
+  title: Prof.
+  role: Professore Associato DISI
+  annotations: --
+
