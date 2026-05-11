@@ -12,6 +12,10 @@ Una raccolta delle proposte per tesi e tirocini attivabili
 <table>
   <tbody>
     <tr>
+      <td><strong>ID Progetto</strong></td>
+      <td>{{ project.id }}</td>
+    </tr>
+    <tr>
       <td><strong>Titolo</strong></td>
       <td>{{ project.title }}</td>
     </tr>
