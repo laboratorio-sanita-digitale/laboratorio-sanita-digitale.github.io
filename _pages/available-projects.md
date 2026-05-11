@@ -39,5 +39,4 @@ Una raccolta delle proposte per tesi e tirocini attivabili
     </tr>
   </tbody>
 </table>
-<br>
 {% endfor %}
