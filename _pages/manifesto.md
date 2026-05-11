@@ -37,26 +37,3 @@ Il comitato scientifico ha il seguente mandato/ruolo:
 La partecipazione alle attività del Laboratorio potrà essere estesa ad altri Dipartimenti dell’Università e/o altre Unità Operative dell’azienda USL della Romagna e dell’IRST che abbiano interesse nelle finalità del laboratorio stesso.
 
 La richiesta di adesione al Laboratorio dovrà essere inoltrata al Comitato Scientifico, con indicazione delle attività che i nuovi membri dovranno svolgere nell’ambito del Laboratorio nonché delle eventuali nuove attrezzature che potranno venire messe a disposizione del Laboratorio stesso.
-
-
-{% assign people_by_institution = site.data.scientific-committee | group_by: "institution" %}
-
-{% for institution_group in people_by_institution %}
-  <h2>{{ institution_group.name }}</h2>
-
-  <div class="people-list">
-    {% for person in institution_group.items %}
-      <div class="person-card">
-        <h3>{{ person.title }} {{ person.name }} {{ person.surname }}</h3>
-
-        <p>{{ person.role }}</p>
-
-        {% if person.annotations and person.annotations != "--" %}
-          <p>
-            <em>{{ person.annotations }}</em>
-          </p>
-        {% endif %}
-      </div>
-    {% endfor %}
-  </div>
-{% endfor %}
