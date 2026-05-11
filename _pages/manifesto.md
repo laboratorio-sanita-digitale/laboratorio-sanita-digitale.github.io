@@ -7,7 +7,6 @@ sidebar:
     text: "Il laboratorio è concepito come spazio di collaborazione virtuale. Utilizza spazi di lavoro fisici presso il Campus di Cesena dell'Università di Bologna e presso AUSL della Romagna."
   - title: "Contatti"
     text: "Per contattare il laboratorio, cliccare qui: [mail](mailto:laboratoriosanitadigitale@gmail.com)."
-modified: 2022-08-31T10:51:37+01:00
 ---
 {% include base_path %}
 <!--{% include toc %}-->
