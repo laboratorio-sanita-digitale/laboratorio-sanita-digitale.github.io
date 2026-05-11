@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: "Tesi"
     url: /thesis/ 
-  - title: "Blog"
-    url: /year-archive/
+# - title: "Blog"
+# url: /year-archive/
 
 # pages links
 blog:
