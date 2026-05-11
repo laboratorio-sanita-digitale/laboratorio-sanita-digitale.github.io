@@ -33,22 +33,6 @@ Il comitato scientifico ha il seguente mandato/ruolo:
 * redigere il piano di attività;
 * dirigere il funzionamento del laboratorio e monitorarne i risultati,
 
-I membri in carica del Comitato Scientifico sono i seguenti:
-
-* Dipartimento di Informatica - Scienza e Ingegneria (DISI), Università di Bologna
-	* Prof. Franco Callegati, *Professore Associato DISI-UOS Cesena, Vicedirettore CIRI ICT UNIBO, Presidente CesenaLab*
-	* Prof. Federico Chesani, *Professore Associato DISI*
-	* Prof. Alessandro Ricci, *Professore Associato DISI-UOS Cesena, Referente UNIBO per il Progetto Sanità Digitale Romagna*
-	
-* Azienda USL della Romagna
-	* Ing. Gianluca Biondi, *U.O. Governo dei Sistemi Informativi*
-	* Ing. Angelo Croatti, *Responsabile per la Transizione Digitale, Staff Direzione Generale*
-	* Dott. Stefano Sanniti, *Direttore Area Dipartimentale Risorse Tecnologiche, Direttore U.O. Fisica Medica e Ingegneria Clinica*
-	
-* IRST
-	* Dott. Nicola Gentili, *Coordinatore Data Unit*
-	* Ing. Roberto Vespignani, *Direttore Servizio Informatico*
-
 ## Adesioni al Laboratorio
 
 La partecipazione alle attività del Laboratorio potrà essere estesa ad altri Dipartimenti dell’Università e/o altre Unità Operative dell’azienda USL della Romagna e dell’IRST che abbiano interesse nelle finalità del laboratorio stesso.
@@ -56,3 +40,24 @@ La partecipazione alle attività del Laboratorio potrà essere estesa ad altri D
 La richiesta di adesione al Laboratorio dovrà essere inoltrata al Comitato Scientifico, con indicazione delle attività che i nuovi membri dovranno svolgere nell’ambito del Laboratorio nonché delle eventuali nuove attrezzature che potranno venire messe a disposizione del Laboratorio stesso.
 
 
+{% assign people_by_institution = site.data.scientific-committee | group_by: "institution" %}
+
+{% for institution_group in people_by_institution %}
+  <h2>{{ institution_group.name }}</h2>
+
+  <div class="people-list">
+    {% for person in institution_group.items %}
+      <div class="person-card">
+        <h3>{{ person.title }} {{ person.name }} {{ person.surname }}</h3>
+
+        <p>{{ person.role }}</p>
+
+        {% if person.annotations and person.annotations != "--" %}
+          <p>
+            <em>{{ person.annotations }}</em>
+          </p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
