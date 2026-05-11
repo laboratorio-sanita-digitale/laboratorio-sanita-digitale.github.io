@@ -5,7 +5,7 @@ excerpt: ""
 ---
 {% include base_path %}
 
-# Attuale Comitato Scientifico
+# Membri del comitato scientifico in carica
 
 {% assign people_by_institution = site.data.scientific-committee | group_by: "institution" %}
 
