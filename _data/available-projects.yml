@@ -1,5 +1,11 @@
 - title : Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE) 
   area: Ingegneria del Software
-  abstract: Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE), con architettura a microservizi e secondo i principi del domain driven design, in coerenza con le linee guida e i principi adottati nel documento “Linee guida per l’implementazione di una cartella clinica elettronica DELL’AUSL ROMAGNA E IRCCS IRST”, affinché sia disponibile per le verticalizzazione degli altri argomenti di ricerca. 
-  main-activities: Analisi dei requisiti di una CCE e dei diversi moduli che la compongono, Progettazione della soluzione adottando architettura a microservizi e domain driven design, Implementazione della soluzione e definizione dei test
+  abstract: > 
+    Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE), con architettura a microservizi e secondo i principi
+    del domain driven design, in coerenza con le linee guida e i principi adottati nel documento “Linee guida per l’implementazione di una cartella
+    clinica elettronica DELL’AUSL ROMAGNA E IRCCS IRST”, affinché sia disponibile per le verticalizzazione degli altri argomenti di ricerca. 
+  main-activities:
+    - Analisi dei requisiti di una CCE e dei diversi moduli che la compongono
+    - Progettazione della soluzione adottando architettura a microservizi e domain driven design
+    - Implementazione della soluzione e definizione dei test
 
