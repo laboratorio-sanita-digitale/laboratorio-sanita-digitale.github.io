@@ -30,7 +30,9 @@ Il comitato Scientifico del Laboratorio Sanità Digitale si compone di n. 8 memb
 Il comitato scientifico ha il seguente mandato/ruolo:
 * facilitare la comunicazione tra le parti;
 * redigere il piano di attività;
-* dirigere il funzionamento del laboratorio e monitorarne i risultati,
+* dirigere il funzionamento del laboratorio e monitorarne i risultati.
+
+[Attuale composizione del comitato scientifico](/manifesto/scientific-committee/)
 
 ## Adesioni al Laboratorio
 
