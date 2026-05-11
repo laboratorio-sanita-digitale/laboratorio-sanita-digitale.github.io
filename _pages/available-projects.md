@@ -7,16 +7,49 @@ excerpt: ""
 
 Una raccolta delle proposte per tesi e tirocini attivabili
 
-{% for project in site.data.available-projects %}
-  <div class="project-card">
-    <h2>{{ project.title }}</h2>
-    <p>{{ project.abstract }}</p>
+---
+permalink: /available-projects/
+title: "Proposte per tesi e tirocini"
+excerpt: ""
+---
+{% include base_path %}
 
-    <h3>Attività principali</h3>
-    <ul>
-      {% for activity in project.main_activities %}
-        <li>{{ activity }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+Una raccolta delle proposte per tesi e tirocini attivabili
+
+{% for project in site.data.available-projects %}
+
+<table>
+  <tbody>
+
+    <tr>
+      <td><strong>Titolo</strong></td>
+      <td>{{ project.title }}</td>
+    </tr>
+
+    <tr>
+      <td><strong>Area</strong></td>
+      <td>{{ project.area }}</td>
+    </tr>
+
+    <tr>
+      <td><strong>Abstract</strong></td>
+      <td>{{ project.abstract }}</td>
+    </tr>
+
+    <tr>
+      <td><strong>Attività principali</strong></td>
+      <td>
+        <ul>
+          {% for activity in project["main-activities"] %}
+            <li>{{ activity }}</li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+<br><br>
+
 {% endfor %}
