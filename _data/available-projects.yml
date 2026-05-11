@@ -1,21 +1,169 @@
-- title : Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE) 
+- id: PRJ001
+  title: Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE)
   area: Ingegneria del Software
-  abstract: > 
-    Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE), con architettura a microservizi e secondo i principi
-    del domain driven design, in coerenza con le linee guida e i principi adottati nel documento “Linee guida per l’implementazione di una cartella
-    clinica elettronica DELL’AUSL ROMAGNA E IRCCS IRST”, affinché sia disponibile per le verticalizzazione degli altri argomenti di ricerca. 
+  abstract: >
+    Progettazione e implementazione di un prototipo di Cartella Clinica
+    Elettronica (CCE), con architettura a microservizi e secondo i principi
+    del domain driven design, in coerenza con le linee guida e i principi
+    adottati nel documento “Linee guida per l’implementazione di una cartella
+    clinica elettronica DELL’AUSL ROMAGNA E IRCCS IRST”.
   main-activities:
     - Analisi dei requisiti di una CCE e dei diversi moduli che la compongono
     - Progettazione della soluzione adottando architettura a microservizi e domain driven design
     - Implementazione della soluzione e definizione dei test
 
-- title : 2 Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE) 
+- id: PRJ002
+  title: Analisi e progettazione dell’infrastruttura di deploy per una Cartella Clinica Elettronica (CCE)
   area: Ingegneria del Software
-  abstract: > 
-    Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE), con architettura a microservizi e secondo i principi
-    del domain driven design, in coerenza con le linee guida e i principi adottati nel documento “Linee guida per l’implementazione di una cartella
-    clinica elettronica DELL’AUSL ROMAGNA E IRCCS IRST”, affinché sia disponibile per le verticalizzazione degli altri argomenti di ricerca. 
+  abstract: >
+    Analisi e progettazione di un modello infrastrutturale per il rilascio di
+    una Cartella Clinica Elettronica lungo l’intero ciclo di vita del software,
+    secondo principi CI/CD e DevOps.
   main-activities:
-    - Analisi dei requisiti di una CCE e dei diversi moduli che la compongono
-    - Progettazione della soluzione adottando architettura a microservizi e domain driven design
-    - Implementazione della soluzione e definizione dei test
+    - Analisi delle architetture moderne di deploy
+    - Progettazione di pipeline CI/CD
+    - Definizione degli ambienti infrastrutturali
+    - Realizzazione di un prototipo infrastrutturale
+    - Valutazione comparativa delle soluzioni
+
+- id: PRJ003
+  title: Prototipo di architettura per Cartella Clinica Elettronica e simulazione di scenari di Business Continuity e Disaster Recovery
+  area: Ingegneria del Software
+  abstract: >
+    Realizzazione di un prototipo architetturale cloud-native per una CCE
+    e simulazione di scenari di Business Continuity e Disaster Recovery.
+  main-activities:
+    - Implementazione di un prototipo basato su microservizi
+    - Simulazione di scenari di guasto
+    - Implementazione di replica, backup e failover
+    - Analisi degli indicatori di resilienza
+    - Valutazione delle strategie di continuità operativa
+
+- id: PRJ004
+  title: Usabilità, ergonomia e configurabilità intelligente per la UI di un sistema di Cartella Clinica Elettronica
+  area: Progettazione Sistemi Web
+  abstract: >
+    Analisi e sperimentazione di principi di usabilità ed ergonomia
+    applicati all’esperienza utente di una Cartella Clinica Elettronica.
+  main-activities:
+    - Analisi dei principi di usabilità
+    - Studio dei metodi di valutazione UX
+    - Progettazione di interfacce per CCE
+    - Analisi di adattamento dinamico tramite AI
+    - Valutazione di sicurezza e accettabilità
+
+- id: PRJ005
+  title: Certificazione come Dispositivo Medico di sistemi software basati su architettura a microservizi
+  area: Sicurezza
+  abstract: >
+    Analisi delle implicazioni normative e tecniche della certificazione
+    come Dispositivo Medico di una piattaforma software sanitaria basata
+    su microservizi.
+  main-activities:
+    - Analisi del quadro normativo
+    - Studio dei requisiti di validazione e tracciabilità
+    - Analisi delle criticità introdotte dai microservizi
+    - Valutazione della compatibilità Agile/DevOps
+    - Implementazione di un Risk Assessment
+
+- id: PRJ006
+  title: Modelli semantici per dati clinici e approcci interoperabili per l’estrazione di conoscenza
+  area: Data Science
+  abstract: >
+    Studio di modelli interoperabili per la rappresentazione dei dati clinici,
+    con particolare attenzione a HL7 FHIR e OpenEHR.
+  main-activities:
+    - Analisi dei modelli di rappresentazione del dato clinico
+    - Studio di FHIR e terminologie cliniche
+    - Progettazione di un prototipo di base di conoscenza
+    - Valutazione dell’integrazione e riuso del dato
+    - Confronto tra FHIR e OpenEHR
+
+- id: PRJ007
+  title: Verifica della robustezza del codice e della sicurezza in una Cartella Clinica Elettronica
+  area: Ingegneria del Software e Sicurezza Informatica
+  abstract: >
+    Analisi di metodi e strumenti per la verifica della robustezza del codice
+    e della sicurezza applicativa in una Cartella Clinica Elettronica.
+  main-activities:
+    - Analisi dei requisiti di sicurezza applicativa
+    - Studio delle tecniche di verifica del codice
+    - Sperimentazione di strumenti SAST e DAST
+    - Integrazione dei controlli di sicurezza in pipeline CI/CD
+    - Valutazione delle vulnerabilità
+
+- id: PRJ008
+  title: Usi di Knowledge Graph per la sanità
+  area: Data | Knowledge Graph
+  abstract: >
+    Studio dell’utilizzo dei Knowledge Graph per supportare interoperabilità,
+    estrazione di conoscenza e explainability in sanità.
+  main-activities:
+    - Studio delle tecnologie Knowledge Graph
+    - Analisi di clustering e graph embedding
+    - Esplorazione e data augmentation
+    - Analisi di explainability
+    - Sperimentazione con database a grafi
+
+- id: PRJ009
+  title: I dati sintetici
+  area: Data | Synthetic Data for Healthcare
+  abstract: >
+    Studio delle tecniche di generazione di dati sintetici applicate ai dataset sanitari.
+  main-activities:
+    - Tecniche di generazione dati sintetici
+    - Validazione dei dati sintetici
+    - Valutazione dell’anonimizzazione
+    - Sviluppo pipeline e casi d’uso
+
+- id: PRJ010
+  title: I DM elementi fondamentali nel percorso del dato
+  area: Reti e Ingegneria Clinica
+  abstract: >
+    Analisi dell’integrazione dei dispositivi medici con la Cartella Clinica
+    Elettronica e dei relativi aspetti architetturali e normativi.
+  main-activities:
+    - Analisi delle architetture di integrazione
+    - Studio dei protocolli di comunicazione
+    - Analisi delle criticità di collegamento
+    - Analisi degli aspetti di cybersecurity
+    - Studio del quadro normativo MDR
+
+- id: PRJ011
+  title: Modelli e metodi per la valutazione della qualità dei dati sanitari
+  area: Data | Data Quality for Healthcare
+  abstract: >
+    Studio di metodologie e metriche per la valutazione della qualità dei dati
+    nei sistemi informativi sanitari.
+  main-activities:
+    - Analisi dei processi di produzione del dato
+    - Analisi esplorativa dei dataset
+    - Definizione delle metriche di qualità
+    - Sviluppo di procedure automatiche
+    - Analisi dell’impatto della qualità del dato
+
+- id: PRJ012
+  title: Process Mining in Healthcare
+  area: Data | Process Mining
+  abstract: >
+    Applicazione di tecniche di Process Mining ai dati dei sistemi
+    informativi ospedalieri.
+  main-activities:
+    - Analisi dello stato dell’arte sul Process Mining
+    - Preparazione degli event log
+    - Process discovery
+    - Conformance checking
+    - Analisi delle performance dei processi
+
+- id: PRJ013
+  title: Classificazione oncologica tramite ML
+  area: ML - LLM - AI
+  abstract: >
+    Studio di tecniche di machine learning e LLM per supportare
+    la classificazione oncologica e il registro tumori.
+  main-activities:
+    - Analisi del contesto
+    - Analisi delle soluzioni ML e LLM
+    - Addestramento dei modelli
+    - Verifica su casi reali
+    - Integrazione nei flussi di lavoro
