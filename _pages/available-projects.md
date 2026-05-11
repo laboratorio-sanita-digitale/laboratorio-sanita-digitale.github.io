@@ -7,7 +7,7 @@ excerpt: ""
 
 Una raccolta delle proposte per tesi e tirocini attivabili
 
-{% for project in site.data.available-project %}
+{% for project in site.data.available-projects %}
   <div class="project-card">
     <h2>{{ project.title }}</h2>
     <p>{{ project.abstract }}</p>
