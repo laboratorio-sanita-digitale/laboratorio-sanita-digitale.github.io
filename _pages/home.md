@@ -51,9 +51,9 @@ research_row:
   <span class="labsd-kicker">Promosso da</span>
 
   <div class="labsd-partners__logos">
-    <img src="/images/logo-ausl-romagna.png" alt="Azienda USL della Romagna">
-    <img src="/images/logo-unibo.png" alt="Università di Bologna">
-    <img src="/images/logo-irst.png" alt="IRST Dino Amadori">
+    <img src="/images/ausl-logo.png" alt="Azienda USL della Romagna">
+    <img src="/images/disi-logo.png" alt="Università di Bologna">
+    <img src="/images/irst-logo.png" alt="IRST Dino Amadori">
   </div>
 </section>
 
