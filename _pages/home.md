@@ -6,7 +6,7 @@ header:
   overlay_image: labsd-teaser.jpg
   caption:
 
-excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale"
+excerpt: "Uno spazio di ricerca, innovazione e collaborazione che mette in relazione competenze informatiche, tecnologiche e sanitarie per studiare e sperimentare nuovi modelli e soluzioni a supporto della trasformazione digitale della sanità."
 
 feature_row:
   - title: "[Studio e Ricerca](/manifesto/)"
@@ -44,15 +44,7 @@ research_row:
 
 <section class="labsd-intro">
   <p class="labsd-kicker">AUSL Romagna · Università di Bologna · IRST</p>
-
   <h2>Un laboratorio congiunto per la sanità digitale</h2>
-
-  <p>
-    Il <strong>Laboratorio Sanità Digitale</strong> è uno spazio di ricerca,
-    innovazione e collaborazione che mette in relazione competenze informatiche,
-    tecnologiche e sanitarie per studiare e sperimentare nuovi modelli e
-    soluzioni a supporto della trasformazione digitale della sanità.
-  </p>
 </section>
 
 {% include feature_row %}
