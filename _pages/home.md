@@ -6,11 +6,6 @@ header:
   overlay_image: labsd-teaser.jpg
   caption:
   excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale"
-  actions:
-    - label: "Scopri il Laboratorio"
-      url: "/manifesto/"
-    - label: "Progetti e attività"
-      url: "/projects/"
 
 feature_row:
   - title: "[Studio e Ricerca](/manifesto/)"
