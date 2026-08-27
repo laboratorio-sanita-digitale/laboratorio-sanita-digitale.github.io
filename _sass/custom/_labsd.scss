@@ -52,3 +52,23 @@
     margin-top: 1rem;
   }
 }
+
+.labsd-partners {
+  margin: 2.5rem 0 4rem;
+  text-align: center;
+}
+
+.labsd-partners__logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+.labsd-partners__logos img {
+  max-height: 58px;
+  width: auto;
+  max-width: 220px;
+}
