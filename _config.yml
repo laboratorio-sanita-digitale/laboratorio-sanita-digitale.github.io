@@ -4,9 +4,9 @@ title                    : "Laboratorio Sanità Digitale"
 title_separator          : "|"
 logo                     : "/images/labsd-logo.png"
 name                     : &name ""
-description              : &description ""
+description              : &description "Laboratorio congiunto di ricerca e innovazione sulla trasformazione digitale della sanità promosso da AUSL Romagna, Università di Bologna e IRST."
 url                      : https://laboratorio-sanita-digitale.github.io
-baseurl                  : "/"
+baseurl                  : ""
 repository               : "laboratorio-sanita-digitale/laboratorio-sanita-digitale.github.io"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
