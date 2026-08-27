@@ -47,6 +47,16 @@ research_row:
   <h2>Un laboratorio congiunto per la sanità digitale</h2>
 </section>
 
+<section class="labsd-partners">
+  <span class="labsd-kicker">Promosso da</span>
+
+  <div class="labsd-partners__logos">
+    <img src="/images/logo-ausl-romagna.png" alt="Azienda USL della Romagna">
+    <img src="/images/logo-unibo.png" alt="Università di Bologna">
+    <img src="/images/logo-irst.png" alt="IRST Dino Amadori">
+  </div>
+</section>
+
 {% include feature_row %}
 
 <section class="labsd-section-header">
