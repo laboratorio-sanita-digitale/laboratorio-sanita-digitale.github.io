@@ -1,1 +1,54 @@
+.labsd-intro,
+.labsd-section-header {
+  max-width: 880px;
+  margin: 4rem auto 3rem;
+  text-align: center;
+}
 
+.labsd-intro h2,
+.labsd-section-header h2,
+.labsd-cta h2 {
+  margin-top: .4rem;
+  margin-bottom: 1rem;
+}
+
+.labsd-intro p,
+.labsd-section-header p,
+.labsd-cta p {
+  line-height: 1.7;
+}
+
+.labsd-kicker {
+  display: block;
+  margin-bottom: .5rem;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.labsd-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+  margin: 4rem 0 2rem;
+  padding: 2.5rem 3rem;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.labsd-cta > div {
+  max-width: 720px;
+}
+
+@media (max-width: 768px) {
+  .labsd-cta {
+    display: block;
+    padding: 2rem 1rem;
+  }
+
+  .labsd-cta .btn {
+    margin-top: 1rem;
+  }
+}
