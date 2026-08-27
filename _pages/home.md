@@ -43,13 +43,11 @@ research_row:
 ---
 
 <section class="labsd-intro">
-  <p class="labsd-kicker">AUSL Romagna · Università di Bologna · IRST</p>
   <h2>Un laboratorio congiunto per la sanità digitale</h2>
 </section>
 
 <section class="labsd-partners">
   <span class="labsd-kicker">Promosso da</span>
-
   <div class="labsd-partners__logos">
     <img src="/images/ausl-logo.png" alt="Azienda USL della Romagna">
     <img src="/images/disi-logo.png" alt="Università di Bologna">
