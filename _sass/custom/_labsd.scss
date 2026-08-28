@@ -74,6 +74,7 @@
 }
 
 .feature__item {
+  display: flex;
   margin-bottom: 1.5rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -89,7 +90,7 @@
 
   background: #f3f7f9;
   border: 1px solid #d3e1e7;
-  border-radius: 18px;
+  border-radius: 8px;
 
   position: relative;
   overflow: hidden;
