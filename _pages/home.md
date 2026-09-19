@@ -9,37 +9,21 @@ header:
 excerpt: "Uno spazio di ricerca, innovazione e collaborazione che mette in relazione competenze informatiche, tecnologiche e sanitarie per studiare e sperimentare nuovi modelli e soluzioni a supporto della trasformazione digitale della sanità."
 
 feature_row:
-  - title: "[Studio e Ricerca](/manifesto/)"
+  - title: "Studio e Ricerca"
     excerpt: "Attività di ricerca, studio, progettazione e sviluppo di tecnologie e sistemi nell'ambito della digitalizzazione della sanità"
-    btn_label: "Scopri i progetti"
+    url: /manifesto/
+    btn_label: "Approfondisci"
     btn_class: "btn--primary"
-  - title: "[Osservatorio](/manifesto/)"
+  - title: "Osservatorio"
     excerpt: "Osservatorio permanente sullo stato della transizione digitale in sanità"
+    url: /manifesto/
     btn_label: "Approfondisci"
     btn_class: "btn--primary"
-  - title: "[Formazione](/manifesto/)"
+  - title: "Formazione"
     excerpt: "Eventi, seminari e corsi formativi per la promozione di cultura digitale in sanità"
+    url: /manifesto/
     btn_label: "Approfondisci"
     btn_class: "btn--primary"
-
-research_row:
-  - title: "Pubblicazioni"
-    excerpt: "Articoli scientifici e contributi sviluppati nell'ambito delle attività di ricerca del Laboratorio."
-    url: "/publications/"
-    btn_label: "Vai alle pubblicazioni"
-    btn_class: "btn--inverse"
-
-  - title: "Tesi"
-    excerpt: "Tesi di laurea sviluppate sui temi della sanità digitale in collaborazione con il Laboratorio."
-    url: "/thesis/"
-    btn_label: "Scopri le tesi"
-    btn_class: "btn--inverse"
-
-  - title: "Tesi e tirocini"
-    excerpt: "Proposte aperte per studenti interessati a sviluppare attività di ricerca e sperimentazione in sanità digitale."
-    url: "/available-projects/"
-    btn_label: "Scopri le opportunità"
-    btn_class: "btn--inverse"
 ---
 
 <section class="labsd-intro">
@@ -57,17 +41,6 @@ research_row:
 
 {% include feature_row %}
 
-<section class="labsd-section-header">
-  <span class="labsd-kicker">Ricerca e formazione</span>
-  <h2>Conoscenza, sperimentazione e nuove competenze</h2>
-  <p>
-    Le attività del Laboratorio producono risultati scientifici, opportunità
-    formative e percorsi di collaborazione tra mondo accademico e sistema sanitario.
-  </p>
-</section>
-
-{% include feature_row id="research_row" %}
-
 <section class="labsd-cta">
   <div>
     <span class="labsd-kicker">Il Laboratorio</span>
@@ -83,3 +56,32 @@ research_row:
     Scopri come nasce il Laboratorio
   </a>
 </section>
+
+<section class="labsd-cta">
+  <div>
+    <span class="labsd-kicker">Temi d'interesse</span>
+    <h2>Per attività di tesi, tirocini o casi di studio in progetti di ricerca</h2>
+    <p>
+      Proposte aperte per studenti interessati a sviluppare attività di ricerca e sperimentazione in sanità digitale o per ricercatori che necessitino di casi di studio in mabito sanità digitale per progetti di ricerca.
+    </p>
+  </div>
+
+  <a href="/available-projects/" class="btn btn--primary">
+    Scopri le opportunità
+  </a>
+</section>
+
+<!--<section class="labsd-contact">
+  <div>
+    <span class="labsd-kicker">Contatti</span>
+    <h2>Parliamone</h2>
+    <p>
+      Per collaborazioni, proposte di tesi, attività di ricerca o altre informazioni
+      sul Laboratorio Sanità Digitale.
+    </p>
+  </div>
+
+  <a class="labsd-contact-mail" href="mailto:laboratoriosanitadigitale@gmail.com">
+    Contatta il laboratorio
+  </a>
+</section>-->

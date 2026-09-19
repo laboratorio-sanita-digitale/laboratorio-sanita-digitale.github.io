@@ -33,11 +33,11 @@ atom_feed:
 
 # Site Author
 author:
-  name             : *name
+  name             : Laboratorio Sanità Digitale
   avatar           : 
   bio              : 
   location         : 
-  email            : 
+  email            : laboratoriosanitadigitale@gmail.com
   uri              : 
   bitbucket        :
   codepen          :

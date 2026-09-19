@@ -30,13 +30,28 @@
   text-align: left;
 }
 
-.breadcrumbs--labsd-wide {
+.page__footer {
+  margin-top: 0;
+}
+
+.labsd-wide .breadcrumbs {
+  width: 100% !important;
   max-width: $x-large;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
   padding-left: 1rem;
   padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+.labsd-wide .breadcrumbs > ol {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 2.5rem !important;
+  padding-right: 0 !important;
+  float: none !important;
 }
 
 .labsd-intro,
@@ -73,10 +88,8 @@
   align-items: center;
   justify-content: space-between;
   gap: 3rem;
-  margin: 4rem 0 2rem;
+  margin: 0 0 1rem;
   padding: 2.5rem 3rem;
-  border-top: 1px solid #e5e5e5;
-  border-bottom: 1px solid #e5e5e5;
 }
 
 .labsd-cta > div {
@@ -114,6 +127,11 @@
   max-width: 220px;
 }
 
+.feature__wrapper {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
 .feature__item {
   display: flex;
   margin-bottom: 1.5rem;
@@ -123,18 +141,17 @@
 }
 
 .feature__item .archive__item {
+  display: flex;
+  flex-direction: column;
   box-sizing: border-box;
   width: 100%;
   height: 100%;
   padding: 1.5rem 1.5rem;
   margin: 0;
-
   background: #f3f7f9;
   border: 1px solid #d3e1e7;
-  
   position: relative;
   overflow: hidden;
-
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -159,9 +176,16 @@
   font-size: 1.25rem;
 }
 
+.feature__item .archive__item-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
 .feature__item .archive__item-excerpt {
   font-size: 0.95rem;
   line-height: 1.6;
+  flex: 1;
 }
 
 .feature__item .archive__item p:last-child {
@@ -380,4 +404,50 @@
 .projects-nav-area ul {
   margin: 0;
   padding-left: 1rem;
+}
+
+.labsd-contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 3rem 0;
+  padding: 2rem 2.5rem;
+  background: #f3f7f9;
+  border-left: 5px solid #377EC3;
+  border-radius: 8px;
+}
+
+.labsd-contact h2 {
+  margin: 0.3rem 0 0.8rem;
+}
+
+.labsd-contact p {
+  margin-bottom: 0;
+}
+
+.labsd-contact-mail {
+  flex-shrink: 0;
+  padding: 0.8rem 1.1rem;
+  background: #77B049;
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.labsd-contact-mail:hover {
+  background: #679d3d;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .labsd-contact {
+    display: block;
+  }
+
+  .labsd-contact-mail {
+    display: inline-block;
+    margin-top: 1rem;
+  }
 }
