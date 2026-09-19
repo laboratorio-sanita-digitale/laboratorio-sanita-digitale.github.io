@@ -4,22 +4,7 @@ main:
     url: /manifesto/
   - title: "Attività e Progetti"
     url: /projects/
-  - title: "Pubblicazioni"
+  - title: "Pubblicazioni e lavori"
     url: /publications/
-  - title: "Tesi"
-    url: /thesis/
-  - title: "Proposte per tesi e tirocini"
+  - title: "Temi d'interesse"
     url: /available-projects/
-# - title: "Blog"
-# url: /year-archive/
-
-# pages links
-blog:
-  - title: Blog
-    children:
-      - title: "Tutti i Post"
-        url: /year-archive/
-      - title: "Tutti i Tag"
-        url: /tag-archive/
-      - title: "Tutte le Categorie"
-        url: /category-archive/

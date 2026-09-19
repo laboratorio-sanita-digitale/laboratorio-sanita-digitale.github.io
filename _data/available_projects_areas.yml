@@ -1,0 +1,17 @@
+- id: software-engineering
+  title: "Ingegneria del Software"
+
+- id: cybersecurity
+  title: "Cybersecurity, resilienza e compliance"
+
+- id: human-computer-interaction
+  title: "Usabilità e interazione uomo-macchina"
+
+- id: data
+  title: "Dati, interoperabilità e conoscenza"
+
+- id: clinical-engineering
+  title: "Ingegneria Clinica e dispositivi medici"
+
+- id: artificial-intelligence
+  title: "Intelligenza Artificiale e Machine Learning"

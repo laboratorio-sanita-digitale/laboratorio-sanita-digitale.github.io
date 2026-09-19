@@ -1,6 +1,7 @@
 - id: PRJ001
+  areas:
+    - software-engineering
   title: Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE)
-  area: Ingegneria del Software
   abstract: >
     Progettazione e implementazione di un prototipo di Cartella Clinica
     Elettronica (CCE), con architettura a microservizi e secondo i principi
@@ -13,8 +14,9 @@
     - Implementazione della soluzione e definizione dei test
 
 - id: PRJ002
+  areas:
+    - software-engineering
   title: Analisi e progettazione dell’infrastruttura di deploy per una Cartella Clinica Elettronica (CCE)
-  area: Ingegneria del Software
   abstract: >
     Analisi e progettazione di un modello infrastrutturale per il rilascio di
     una Cartella Clinica Elettronica lungo l’intero ciclo di vita del software,
@@ -27,8 +29,9 @@
     - Valutazione comparativa delle soluzioni
 
 - id: PRJ003
+  areas:
+    - software-engineering
   title: Prototipo di architettura per Cartella Clinica Elettronica e simulazione di scenari di Business Continuity e Disaster Recovery
-  area: Ingegneria del Software
   abstract: >
     Realizzazione di un prototipo architetturale cloud-native per una CCE
     e simulazione di scenari di Business Continuity e Disaster Recovery.
@@ -40,8 +43,9 @@
     - Valutazione delle strategie di continuità operativa
 
 - id: PRJ004
+  areas:
+    - human-computer-interaction
   title: Usabilità, ergonomia e configurabilità intelligente per la UI di un sistema di Cartella Clinica Elettronica
-  area: Progettazione Sistemi Web
   abstract: >
     Analisi e sperimentazione di principi di usabilità ed ergonomia
     applicati all’esperienza utente di una Cartella Clinica Elettronica.
@@ -53,8 +57,9 @@
     - Valutazione di sicurezza e accettabilità
 
 - id: PRJ005
+  areas:
+    - cybersecurity
   title: Certificazione come Dispositivo Medico di sistemi software basati su architettura a microservizi
-  area: Sicurezza
   abstract: >
     Analisi delle implicazioni normative e tecniche della certificazione
     come Dispositivo Medico di una piattaforma software sanitaria basata
@@ -67,8 +72,9 @@
     - Implementazione di un Risk Assessment
 
 - id: PRJ006
+  areas:
+    - data
   title: Modelli semantici per dati clinici e approcci interoperabili per l’estrazione di conoscenza
-  area: Data Science
   abstract: >
     Studio di modelli interoperabili per la rappresentazione dei dati clinici,
     con particolare attenzione a HL7 FHIR e OpenEHR.
@@ -80,8 +86,10 @@
     - Confronto tra FHIR e OpenEHR
 
 - id: PRJ007
+  areas:
+    - software-engineering
+    - cybersecurity
   title: Verifica della robustezza del codice e della sicurezza in una Cartella Clinica Elettronica
-  area: Ingegneria del Software e Sicurezza Informatica
   abstract: >
     Analisi di metodi e strumenti per la verifica della robustezza del codice
     e della sicurezza applicativa in una Cartella Clinica Elettronica.
@@ -93,8 +101,9 @@
     - Valutazione delle vulnerabilità
 
 - id: PRJ008
+  areas:
+    - data
   title: Usi di Knowledge Graph per la sanità
-  area: Data | Knowledge Graph
   abstract: >
     Studio dell’utilizzo dei Knowledge Graph per supportare interoperabilità,
     estrazione di conoscenza e explainability in sanità.
@@ -106,8 +115,9 @@
     - Sperimentazione con database a grafi
 
 - id: PRJ009
+  areas:
+    - data
   title: I dati sintetici
-  area: Data | Synthetic Data for Healthcare
   abstract: >
     Studio delle tecniche di generazione di dati sintetici applicate ai dataset sanitari.
   main-activities:
@@ -117,8 +127,9 @@
     - Sviluppo pipeline e casi d’uso
 
 - id: PRJ010
+  areas:
+    - clinical-engineering
   title: I DM elementi fondamentali nel percorso del dato
-  area: Reti e Ingegneria Clinica
   abstract: >
     Analisi dell’integrazione dei dispositivi medici con la Cartella Clinica
     Elettronica e dei relativi aspetti architetturali e normativi.
@@ -130,8 +141,9 @@
     - Studio del quadro normativo MDR
 
 - id: PRJ011
+  areas:
+    - data
   title: Modelli e metodi per la valutazione della qualità dei dati sanitari
-  area: Data | Data Quality for Healthcare
   abstract: >
     Studio di metodologie e metriche per la valutazione della qualità dei dati
     nei sistemi informativi sanitari.
@@ -143,8 +155,9 @@
     - Analisi dell’impatto della qualità del dato
 
 - id: PRJ012
+  areas:
+    - data
   title: Process Mining in Healthcare
-  area: Data | Process Mining
   abstract: >
     Applicazione di tecniche di Process Mining ai dati dei sistemi
     informativi ospedalieri.
@@ -156,8 +169,9 @@
     - Analisi delle performance dei processi
 
 - id: PRJ013
+  areas:
+    - artificial-intelligence
   title: Classificazione oncologica tramite ML
-  area: ML - LLM - AI
   abstract: >
     Studio di tecniche di machine learning e LLM per supportare
     la classificazione oncologica e il registro tumori.
