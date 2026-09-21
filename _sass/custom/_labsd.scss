@@ -497,3 +497,135 @@
     margin-top: 1rem;
   }
 }
+
+.labsd-project-card {
+  display: grid;
+  grid-template-columns: 1fr 180px;
+  gap: 2rem;
+  align-items: center;
+
+  margin-bottom: 1.5rem;
+  padding: 1.75rem 2rem;
+
+  background: #f3f7f9;
+  border: 1px solid #d3e1e7;
+  border-radius: 8px;
+}
+
+.labsd-project-card__content h2 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  color: #377EC3;
+}
+
+.labsd-project-card__subtitle {
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+
+.labsd-project-card__content .btn {
+  background: #77B049;
+  border-color: #77B049;
+  color: #ffffff;
+}
+
+.labsd-project-card__content .btn:hover {
+  background: #679d3d;
+  border-color: #679d3d;
+  color: #ffffff;
+}
+
+.labsd-project-card__logo {
+  width: 180px;
+  height: 180px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.labsd-project-card__logo img {
+  max-width: 85%;
+  max-height: 85%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .labsd-project-card {
+    grid-template-columns: 1fr;
+  }
+
+  .labsd-project-card__logo {
+    width: 140px;
+    height: 140px;
+    margin: 0 auto;
+    order: -1;
+  }
+}
+
+.labsd-project-header {
+  display: grid;
+  grid-template-columns: 1fr 180px;
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 2.5rem;
+  padding: 0 0 2rem;
+}
+
+.labsd-project-header__content h1 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.labsd-project-header__description {
+  max-width: 800px;
+  margin-bottom: 1.25rem;
+
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #3f4650;
+}
+
+.labsd-project-header__actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.labsd-project-header__logo {
+  width: 180px;
+  height: 180px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.labsd-project-header__logo img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .labsd-project-header {
+    grid-template-columns: 1fr;
+  }
+
+  .labsd-project-header__logo {
+    width: 140px;
+    height: 140px;
+    margin: 0 auto;
+    order: -1;
+  }
+}

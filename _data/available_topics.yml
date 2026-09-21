@@ -1,4 +1,4 @@
-- id: PRJ001
+- id: TOPIC-001
   areas:
     - software-engineering
   title: Progettazione e implementazione di un prototipo di Cartella Clinica Elettronica (CCE)
@@ -13,7 +13,7 @@
     - Progettazione della soluzione adottando architettura a microservizi e domain driven design
     - Implementazione della soluzione e definizione dei test
 
-- id: PRJ002
+- id: TOPIC-002
   areas:
     - software-engineering
   title: Analisi e progettazione dell’infrastruttura di deploy per una Cartella Clinica Elettronica (CCE)
@@ -28,7 +28,7 @@
     - Realizzazione di un prototipo infrastrutturale
     - Valutazione comparativa delle soluzioni
 
-- id: PRJ003
+- id: TOPIC-003
   areas:
     - software-engineering
   title: Prototipo di architettura per Cartella Clinica Elettronica e simulazione di scenari di Business Continuity e Disaster Recovery
@@ -42,7 +42,7 @@
     - Analisi degli indicatori di resilienza
     - Valutazione delle strategie di continuità operativa
 
-- id: PRJ004
+- id: TOPIC-004
   areas:
     - human-computer-interaction
   title: Usabilità, ergonomia e configurabilità intelligente per la UI di un sistema di Cartella Clinica Elettronica
@@ -56,7 +56,7 @@
     - Analisi di adattamento dinamico tramite AI
     - Valutazione di sicurezza e accettabilità
 
-- id: PRJ005
+- id: TOPIC-005
   areas:
     - cybersecurity
   title: Certificazione come Dispositivo Medico di sistemi software basati su architettura a microservizi
@@ -71,7 +71,7 @@
     - Valutazione della compatibilità Agile/DevOps
     - Implementazione di un Risk Assessment
 
-- id: PRJ006
+- id: TOPIC-006
   areas:
     - data
   title: Modelli semantici per dati clinici e approcci interoperabili per l’estrazione di conoscenza
@@ -85,7 +85,7 @@
     - Valutazione dell’integrazione e riuso del dato
     - Confronto tra FHIR e OpenEHR
 
-- id: PRJ007
+- id: TOPIC-007
   areas:
     - software-engineering
     - cybersecurity
@@ -100,7 +100,7 @@
     - Integrazione dei controlli di sicurezza in pipeline CI/CD
     - Valutazione delle vulnerabilità
 
-- id: PRJ008
+- id: TOPIC-008
   areas:
     - data
   title: Usi di Knowledge Graph per la sanità
@@ -114,7 +114,7 @@
     - Analisi di explainability
     - Sperimentazione con database a grafi
 
-- id: PRJ009
+- id: TOPIC-009
   areas:
     - data
   title: I dati sintetici
@@ -126,7 +126,7 @@
     - Valutazione dell’anonimizzazione
     - Sviluppo pipeline e casi d’uso
 
-- id: PRJ010
+- id: TOPIC-010
   areas:
     - clinical-engineering
   title: I DM elementi fondamentali nel percorso del dato
@@ -140,7 +140,7 @@
     - Analisi degli aspetti di cybersecurity
     - Studio del quadro normativo MDR
 
-- id: PRJ011
+- id: TOPIC-011
   areas:
     - data
   title: Modelli e metodi per la valutazione della qualità dei dati sanitari
@@ -154,7 +154,7 @@
     - Sviluppo di procedure automatiche
     - Analisi dell’impatto della qualità del dato
 
-- id: PRJ012
+- id: TOPIC-012
   areas:
     - data
   title: Process Mining in Healthcare
@@ -168,7 +168,7 @@
     - Conformance checking
     - Analisi delle performance dei processi
 
-- id: PRJ013
+- id: TOPIC-013
   areas:
     - artificial-intelligence
   title: Classificazione oncologica tramite ML

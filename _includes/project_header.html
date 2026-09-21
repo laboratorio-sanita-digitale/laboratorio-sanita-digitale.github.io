@@ -1,0 +1,51 @@
+{% assign project = include.project %}
+
+{% if project %}
+  <div class="labsd-project-header">
+
+    <div class="labsd-project-header__content">
+
+      {% if project.title %}
+        <h1>{{ project.title }}</h1>
+      {% endif %}
+
+      {% if project.description %}
+        <p class="labsd-project-header__description">
+          {{ project.description }}
+        </p>
+      {% endif %}
+
+      {% if project.github or project.website %}
+        <div class="labsd-project-header__actions">
+
+          {% if project.github %}
+            <a href="{{ project.github }}"
+               class="btn labsd-btn-secondary"
+               target="_blank"
+               rel="noopener">
+              GitHub
+            </a>
+          {% endif %}
+
+          {% if project.website %}
+            <a href="{{ project.website }}"
+               class="btn btn--primary"
+               target="_blank"
+               rel="noopener">
+              Sito del progetto
+            </a>
+          {% endif %}
+
+        </div>
+      {% endif %}
+
+    </div>
+
+    {% if project.logo %}
+      <div class="labsd-project-header__logo">
+        <img src="{{ project.logo }}" alt="Logo {{ project.title }}">
+      </div>
+    {% endif %}
+
+  </div>
+{% endif %}
