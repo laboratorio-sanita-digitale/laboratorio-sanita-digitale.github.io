@@ -33,10 +33,35 @@ feature_row:
 <section class="labsd-partners">
   <span class="labsd-kicker">Promosso da</span>
   <div class="labsd-partners__logos">
-    <img src="/images/ausl-logo.png" alt="Azienda USL della Romagna">
-    <img src="/images/disi-logo.png" alt="Università di Bologna">
-    <img src="/images/irst-logo.png" alt="IRST Dino Amadori">
+    <div class="labsd-partner">
+      <div class="labsd-partner__logo">
+        <img src="/images/ausl-logo.png" alt="Azienda USL della Romagna">
+      </div>
+      <a href="https://www.auslromagna.it" target="_blank" rel="noopener">
+        Azienda USL della Romagna
+      </a>
+    </div>
+    <div class="labsd-partner">
+      <div class="labsd-partner__logo">
+        <img src="/images/disi-logo.png" alt="Università di Bologna">
+      </div>
+      <a href="https://disi.unibo.it" target="_blank" rel="noopener">
+        Alma Mater Studiorum - Università di Bologna<br/>Dipartimento di Informatica - Scienza e Ingegneria (DISI)
+      </a>
+    </div>
+    <div class="labsd-partner">
+      <div class="labsd-partner__logo">
+        <img src="/images/irst-logo.png" alt="IRST Dino Amadori">
+      </div>
+      <a href="https://www.irst.emr.it/it" target="_blank" rel="noopener">
+        Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" 
+      </a>
+    </div>
   </div>
+</section>
+
+<section class="labsd-intro">
+  <span class="labsd-kicker">con i seguenti obiettivi</span>
 </section>
 
 {% include feature_row %}
