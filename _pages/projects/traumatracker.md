@@ -11,6 +11,8 @@ classes: labsd-wide justified-text
 {% assign project = site.data.projects | where: "id", page.project_id | first %}
 {% include project_header.html project=project %}
 
+<!--{% include toc %}-->
+
 ## Il progetto
 
 Pagina in costruzione

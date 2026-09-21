@@ -4,7 +4,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: labsd-teaser.jpg
-  caption:
 
 excerpt: "Uno spazio di ricerca, innovazione e collaborazione che mette in relazione competenze informatiche, tecnologiche e sanitarie per studiare e sperimentare nuovi modelli e soluzioni a supporto della trasformazione digitale della sanità."
 

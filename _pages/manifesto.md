@@ -1,15 +1,14 @@
 ---
 permalink: /manifesto/
 title: "Manifesto"
+classes: labsd-wide justified-text
 excerpt: ""
-sidebar:
-  - title: "Sede"
-    text: "Il laboratorio è concepito come spazio di collaborazione virtuale. Utilizza spazi di lavoro fisici presso il Campus di Cesena dell'Università di Bologna e presso AUSL della Romagna."
-  - title: "Contatti"
-    text: "Per contattare il laboratorio, cliccare qui: [mail](mailto:laboratoriosanitadigitale@gmail.com)."
 ---
+
 {% include base_path %}
-<!--{% include toc %}-->
+
+# Manifesto
+
 Il **Laboratorio Sanità Digitale** promuove lo studio e la ricerca per l’applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale.
 
 Il laboratorio è il risultato di un accordo di collaborazione tra **[Azienda USL della Romagna](https://www.auslromagna.it/)**, **[Dipartimento di Informatica - Scienza e Ingegneria](https://disi.unibo.it/it)** dell'Università di Bologna e **[IRCCS Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" - IRST S.r.l.](https://www.irst.emr.it/it/)**.
@@ -33,6 +32,10 @@ Il comitato scientifico ha il seguente mandato/ruolo:
 * dirigere il funzionamento del laboratorio e monitorarne i risultati.
 
 [Attuale composizione del comitato scientifico](/manifesto/scientific-committee/)
+
+## Sede
+
+Il laboratorio è concepito come spazio di collaborazione virtuale. Utilizza spazi di lavoro fisici presso il Campus di Cesena dell'Università di Bologna e presso AUSL della Romagna.
 
 ## Adesioni al Laboratorio
 

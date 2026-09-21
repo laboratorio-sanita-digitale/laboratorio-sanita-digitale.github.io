@@ -60,6 +60,12 @@
   letter-spacing: 0.03em;
 }
 
+.labsd-home-contact {
+  display: flex;
+  justify-content: flex-end;
+  margin: 1.2rem 0 0.5rem;
+}
+
 .labsd-intro,
 .labsd-section-header {
   max-width: 880px;
@@ -102,16 +108,7 @@
   max-width: 720px;
 }
 
-@media (max-width: 768px) {
-  .labsd-cta {
-    display: block;
-    padding: 2rem 1rem;
-  }
 
-  .labsd-cta .btn {
-    margin-top: 1rem;
-  }
-}
 
 .labsd-partners {
   margin: 2.5rem 0 3rem;
@@ -167,11 +164,7 @@
   color: #377EC3;
 }
 
-@media (max-width: 768px) {
-  .labsd-partners__logos {
-    grid-template-columns: 1fr;
-  }
-}
+
 
 .feature__wrapper {
   border-bottom: 0;
@@ -356,11 +349,7 @@
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
 }
 
-@media (max-width: 900px) {
-  .projects-page-layout {
-    grid-template-columns: 1fr;
-  }
-}
+
 
 .projects-page-list {
   margin: 0;
@@ -487,16 +476,7 @@
   color: #ffffff;
 }
 
-@media (max-width: 768px) {
-  .labsd-contact {
-    display: block;
-  }
 
-  .labsd-contact-mail {
-    display: inline-block;
-    margin-top: 1rem;
-  }
-}
 
 .labsd-project-card {
   display: grid;
@@ -555,18 +535,7 @@
   object-fit: contain;
 }
 
-@media (max-width: 768px) {
-  .labsd-project-card {
-    grid-template-columns: 1fr;
-  }
 
-  .labsd-project-card__logo {
-    width: 140px;
-    height: 140px;
-    margin: 0 auto;
-    order: -1;
-  }
-}
 
 .labsd-project-header {
   display: grid;
@@ -617,6 +586,115 @@
   object-fit: contain;
 }
 
+.labsd-footer-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+
+  margin-bottom: 1.5rem;
+  padding-top: 0.5rem;
+}
+
+.labsd-footer-column h3 {
+  margin: 0 0 0.55rem;
+
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.labsd-footer-column p {
+  margin: 0 0 0.65rem;
+
+  font-size: 0.72rem;
+  line-height: 1.45;
+}
+
+.labsd-footer-column strong {
+  font-weight: 700;
+}
+
+.labsd-footer-column .btn {
+  padding: 0.4rem 0.7rem;
+
+  background: #77B049;
+  border-color: #77B049;
+  color: #ffffff;
+
+  font-size: 0.7rem;
+  font-weight: 700;
+  border-radius: 4px;
+}
+
+.labsd-footer-column .btn:hover {
+  background: #679d3d;
+  border-color: #679d3d;
+  color: #ffffff;
+}
+
+.labsd-footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.labsd-footer-links li {
+  margin-bottom: 0.35rem;
+}
+
+.labsd-footer-links a {
+  font-size: 0.72rem;
+  text-decoration: none;
+}
+
+.labsd-footer-links a:hover {
+  text-decoration: underline;
+}
+
+.page__footer-follow {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.page__footer-follow ul {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.page__footer-follow li {
+  margin: 0;
+}
+
+.page__footer-follow img {
+  max-height: 34px !important;
+  width: auto;
+}
+
+.page__footer-copyright {
+  margin-top: 0.4rem;
+  font-size: 0.68rem;
+}
+
+.labsd-footer-contacts {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 1rem;
+  align-items: center;
+}
+
+.labsd-footer-contacts__action {
+  display: flex;
+  justify-content: flex-end;
+}
+
 @media (max-width: 768px) {
   .labsd-project-header {
     grid-template-columns: 1fr;
@@ -627,5 +705,69 @@
     height: 140px;
     margin: 0 auto;
     order: -1;
+  }
+
+  .labsd-footer-top {
+      display: block;
+    }
+
+  .labsd-footer-column {
+      width: 100%;
+      margin-bottom: 1.5rem;
+  }
+
+  .labsd-footer-contacts {
+      display: block;
+  }
+
+  .labsd-footer-contacts__text,
+  .labsd-footer-contacts__action {
+      width: 100%;
+  }
+
+  .labsd-footer-contacts__action {
+      margin-top: 0.75rem;
+      justify-content: flex-start;
+  }
+
+  .labsd-footer-column .btn {
+      display: inline-block;
+    }
+
+  .labsd-project-card {
+    grid-template-columns: 1fr;
+  }
+
+  .labsd-project-card__logo {
+    width: 140px;
+    height: 140px;
+    margin: 0 auto;
+    order: -1;
+  }
+
+  .labsd-contact {
+    display: block;
+  }
+
+  .labsd-contact-mail {
+    display: inline-block;
+    margin-top: 1rem;
+  }
+
+  .projects-page-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .labsd-partners__logos {
+    grid-template-columns: 1fr;
+  }
+
+  .labsd-cta {
+    display: block;
+    padding: 2rem 1rem;
+  }
+
+  .labsd-cta .btn {
+    margin-top: 1rem;
   }
 }
