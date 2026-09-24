@@ -17,6 +17,8 @@ Il **Cancer Virtual Lab (CVL)** è una piattaforma di ricerca e analisi avanzata
 
 L'obiettivo principale è superare i limiti dei tradizionali silos informativi per trasformare dati biomedici eterogenei in una rete di conoscenza interconnessa, offrendo a ricercatori e oncologi uno strumento interoperabile per la medicina di precisione, la scoperta di biomarker e il supporto alle decisioni cliniche.
 
+* Scopri Cancer Virtual Lab: la piattaforma di decision support in oncologia [https://disi.unibo.it/it/notizie/cancer-virtual-lab-una-piattaforma-di-decision-support-in-oncologia]
+
 ## Pilastri Tecnologici
 
 * **Rappresentazione Semantica e Standard FHIR**: Utilizzo dei principi FAIR e di standard internazionali (come HL7 FHIR) abbinati a tecnologie W3C (RDF, OWL) per armonizzare e normalizzare le cartelle cliniche elettroniche in formati "research-ready".
@@ -24,9 +26,7 @@ L'obiettivo principale è superare i limiti dei tradizionali silos informativi p
 * **Intelligenza Artificiale e LLM**: Impiego di Large Language Models e intelligenza artificiale per l'estrazione di informazioni da testi non strutturati e per facilitare l'esplorazione conversazionale e semantica della conoscenza medica in ambienti protetti.
 * **Infrastruttura Sicura per la Ricerca**: Un framework concepito in ottica privacy-preserving che permette la creazione di coorti di ricerca ed esplorazioni di dati sensibili nel pieno rispetto delle normative sulla sicurezza.
 
-## Pubblicazioni e Contributi Scientifici
-
-I risultati e la metodologia del progetto Cancer Virtual Lab sono stati validati in letteratura attraverso le seguenti pubblicazioni:
+## Pubblicazioni
 
 * Carbonaro, Antonella, Luca Giorgetti, Lorenzo Ridolfi, Roberto Pasolini, Andrea Pagliarani, Martina Cavallucci, Alice Andalò, Livia Del Gaudio, Paolo De Angelis, Nicola Gentili, e Roberto Vespignani. "From raw data to research-ready: A FHIR-based transformation pipeline in a real-world oncology setting." *Computers in Biology and Medicine* 197, Pt B (2025): 111051. [https://doi.org/10.1016/j.compbiomed.2025.111051](https://doi.org/10.1016/j.compbiomed.2025.111051).
 
