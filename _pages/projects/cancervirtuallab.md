@@ -17,7 +17,7 @@ Il **Cancer Virtual Lab (CVL)** è una piattaforma di ricerca e analisi avanzata
 
 L'obiettivo principale è superare i limiti dei tradizionali silos informativi per trasformare dati biomedici eterogenei in una rete di conoscenza interconnessa, offrendo a ricercatori e oncologi uno strumento interoperabile per la medicina di precisione, la scoperta di biomarker e il supporto alle decisioni cliniche.
 
-* Scopri Cancer Virtual Lab: la piattaforma di decision support in oncologia [https://disi.unibo.it/it/notizie/cancer-virtual-lab-una-piattaforma-di-decision-support-in-oncologia]
+[Scopri Cancer Virtual Lab: la piattaforma di decision support in oncologia](https://disi.unibo.it/it/notizie/cancer-virtual-lab-una-piattaforma-di-decision-support-in-oncologia)
 
 ## Pilastri Tecnologici
 
