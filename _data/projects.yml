@@ -5,3 +5,11 @@
   permalink: "/projects/traumatracker/"
   github: "/"
   website: "/"
+
+- id: cancervirtuallab
+  title: "Cancer Virtual Lab"
+  description: "Una piattaforma software che combina AI, Knowledge Graph e tecnologie semantiche per l'integrazione, la simulazione e l'analisi di dati clinici e omici a supporto della ricerca oncologica e della medicina di precisione."
+  logo: "/images/projects/CVL Logo.png"
+  permalink: "/projects/cancervirtuallab/"
+  github: "/"
+  website: "/"
