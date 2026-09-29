@@ -33,3 +33,7 @@ L'obiettivo principale è superare i limiti dei tradizionali silos informativi p
 * De Angelis, Paolo, Alice Andalò, Nicola Gentili, Luca Giorgetti, Lorenzo Ridolfi, Roberto Pasolini, Andrea Pagliarani, Martina Cavallucci, Roberto Vespignani, e Antonella Carbonaro. "Cancer Virtual Lab: una piattaforma sicura e interoperabile basata su knowledge graph e large language model per la ricerca oncologica." *Recenti Progressi in Medicina* 116, no. 10 (2025): 601–602. [https://doi.org/10.1701/4573.45795](https://doi.org/10.1701/4573.45795).
 
 * Carbonaro, Antonella, Luca Giorgetti, Lorenzo Ridolfi, Roberto Pasolini, Andrea Pagliarani, Paolo De Angelis, e Nicola Gentili. "Enabling Clinical Research with Semantic Knowledge Graphs: The Cancer Virtual Lab Platform." In *Proceedings of the 9th International Workshop on Semantic Web Solutions for Biomedical and Healthcare Data (SeWeBMeDa@ESWC)*, CEUR Workshop Proceedings, 2026.
+
+## Awards
+
+* ABOUT PHARMA DIGITAL AWARDS 2026. Best Project Ricerca Clinica.
