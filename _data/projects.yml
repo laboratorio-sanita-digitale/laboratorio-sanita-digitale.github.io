@@ -13,3 +13,11 @@
   permalink: "/projects/cancervirtuallab/"
   github: "/"
   website: "/"
+
+- id: renata
+  title: "PDTai - Renata"
+  description: "Un assistente virtuale conversazionale basato su GPT progettato per supportare lo sviluppo, l'organizzazione e la gestione metodologica dei Percorsi Diagnostico-Terapeutici Assistenziali (PDTA) in ambito oncologico."
+  logo: "/images/projects/renata-logo.png"
+  permalink: "/projects/renata/"
+  github: "/"
+  website: "/"
